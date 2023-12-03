@@ -1,5 +1,5 @@
 facebook.com, 1564401757427340, DIRECT, c3e20eee3f780d68
-facebook.com, 371322335411181, Direct, c3e20eee3f780d68ironsrc.com, 479367, Direct
+facebook.com, 371322335411181, Direct, c3e20eee3f780d68
 ironsrc.com, 479367, Direct
 adbility-media.com, 187, RESELLER
 google.com, pub-7452201096415972, RESELLER, f08c47fec0942fa0
